@@ -51,7 +51,7 @@ const options = {
       shade: 'dark',
       opacityFrom: 0.7,
       opacityTo: 0.3,
-    }
+    },
   },
 }
 
